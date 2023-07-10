@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/myContacts/static/css/main.fd37378a.css",
+    "main.js": "/myContacts/static/js/main.003cb7ff.js",
+    "static/media/SEGA.woff": "/myContacts/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/myContacts/index.html",
+    "main.fd37378a.css.map": "/myContacts/static/css/main.fd37378a.css.map",
+    "main.003cb7ff.js.map": "/myContacts/static/js/main.003cb7ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd37378a.css",
+    "static/js/main.003cb7ff.js"
+  ]
+}
